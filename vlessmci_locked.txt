@@ -1,8 +1,1 @@
-aether://162.159.198.124:443?protocol=masque&scan=balanced&ip=v4&transport=h2&psiphon=chain&psiphon_mode=auto&region=SG#Narcic%20Geteway%20Mci%20%20%F0%9F%87%B8%F0%9F%87%AC
-aether://162.159.198.124:443?protocol=masque&scan=balanced&ip=v4&transport=h2&psiphon=chain&psiphon_mode=auto&region=GB#Narcic%20Geteway%20Mci%20%20%F0%9F%87%AC%F0%9F%87%A7
-aether://162.159.198.124:443?protocol=masque&scan=balanced&ip=v4&transport=h2&psiphon=chain&psiphon_mode=auto&region=AU#Narcic%20Geteway%20Mci%20%20%F0%9F%87%A6%F0%9F%87%BA
-aether://162.159.198.124:443?protocol=masque&scan=balanced&ip=v4&transport=h2&psiphon=chain&psiphon_mode=auto&region=AT#Narcic%20Geteway%20Mci%20%20%F0%9F%87%A6%F0%9F%87%B9
-aether://162.159.198.124:443?protocol=masque&scan=balanced&ip=v4&transport=h2&psiphon=chain&psiphon_mode=auto&region=FR#Narcic%20Geteway%20Mci%20%20%F0%9F%87%AB%F0%9F%87%B7
-aether://162.159.198.124:443?protocol=masque&scan=balanced&ip=v4&transport=h2&psiphon=chain&psiphon_mode=auto&region=US#Narcic%20Geteway%20Mci%20%20%F0%9F%87%BA%F0%9F%87%B2
-aether://162.159.198.124:443?protocol=masque&scan=balanced&ip=v4&transport=h2&psiphon=chain&psiphon_mode=auto&region=DE#Narcic%20Geteway%20Mci%20%20%F0%9F%87%A9%F0%9F%87%AA
-aether://162.159.198.124:443?protocol=masque&scan=balanced&ip=v4&transport=h2#Narcic%20Geteway%20Mci%20%20%F0%9F%87%AE%F0%9F%87%B7
+NRGSUB1:0uLDpG8O5rFgZ5kObLS5wdhuwIcg4Tm94wG7WrueAPPOrGYTu7ps3vJdnaW24MQ-7hnon7hbLT3W1puppG0Li8CEGbsHjqMtsg36vl6ESQYCZjheZDvuJ6Iw8-XS5XHc4PE4gxGNerb0DU4rHjLdP_6DUzsVA4y5EO0ha9SClt9NljW_U4X-0dMXtd5cSru_GJT6_vQAQmJoDq6EEazXmbnTiy1ZIbr0P6a7PN-8sD4co4h_zzZnYmbyUlF02RxwRQafoETxxpql7Q4-xRBYt4U2uvqweCebohkH7rvxBAEkho0LG5b-eUPo_Htbl5QwdyAL9De24FQVvCBa6OA
